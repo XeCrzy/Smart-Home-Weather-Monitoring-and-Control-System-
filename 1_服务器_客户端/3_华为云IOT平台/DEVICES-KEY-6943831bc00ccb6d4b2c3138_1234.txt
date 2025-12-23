@@ -1,0 +1,4 @@
+{
+    "device_id": "6943831bc00ccb6d4b2c3138_1234",
+    "secret": "fc3b43b825117184a1d87d2f32d77b6c"
+}
